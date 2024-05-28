@@ -1,0 +1,44 @@
+# Ignore terraform state files
+*.tfstate
+*.tfstate.*
+
+# Ignore all log files
+*.log
+
+# Ignore files that may contain secrets
+*.pem
+*.key
+*.terraform.*
+
+
+# Ignore binary folder for providers, and specifically the aws and .terraform directories
+**/aws/
+.terraform/
+
+# Ignore any .zip files, might contain compiled lambda source code
+*.zip
+
+# Ignore directories that shouldn't be committed
+output/
+
+# Ignore IDE and text editor folders
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Ignore system files
+.DS_Store
+
+# Optionally, ignore all files within a config directory
+# config/*
+
+# Ignore specific files within the 'config' directory
+config/api_endpoint.txt
+
+# Depending on its use, consider ignoring index_org.js
+# config/index_org.js
+
+# Consider ignoring shell scripts if they are for personal use or contain sensitive information
+# *.sh

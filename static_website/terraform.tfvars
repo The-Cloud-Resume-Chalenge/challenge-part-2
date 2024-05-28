@@ -1,0 +1,11 @@
+
+profile = "default"
+aws_access_key_id = "xxxxxxxxxxxxxxx"
+aws_secret_access_key = "xxxxxxxxxxxxxxx"
+use_aws_profile = "true"
+region_master = "us-east-1"
+endpoint = "api-stage"
+basic_dynamodb_table = "cloud-resume-stats"
+api_endpoint = "visitors"
+function_name = "visitor"
+runtime = "python3.12"
