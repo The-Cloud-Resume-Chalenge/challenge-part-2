@@ -2,7 +2,7 @@
 Take your cloud resume to the next level in Part 2 of the Cloud Resume Challenge. If you're catching up, start with [Part 1](https://devopsmajid.hashnode.dev/cloud-resume-challenge-part-1) where we set up a static website on AWS. Now, let's track how many visitors our resume attracts by leveraging AWS Lambda and DynamoDB!
 
 
-You'll find a complete guide on my [blog post]().
+You'll find a complete guide on my [blog post](https://devopsmajid.hashnode.dev/cloud-resume-challenge-part-2).
 ![AWS Logo](./images/aws.png)
 
 
