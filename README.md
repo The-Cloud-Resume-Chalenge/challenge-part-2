@@ -3,6 +3,7 @@ Take your cloud resume to the next level in Part 2 of the Cloud Resume Challenge
 
 
 You'll find a complete guide on my [blog post](https://devopsmajid.hashnode.dev/cloud-resume-challenge-part-2).
+
 ![AWS Logo](./images/aws.png)
 
 
