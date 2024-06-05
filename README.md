@@ -8,7 +8,7 @@ You'll find a complete guide on my [blog post](https://devopsmajid.hashnode.dev/
 
 
 Welcome to Part 2 of the Cloud Resume Challenge. This repository adds a visitor count feature. We will create and interact with a DynamoDB table using AWS Lambda, and connect everything using API Gateway.
-Automate and showcase your visitor count feature without hassle by following these simple steps:
+
 
 ## Architecture
 
